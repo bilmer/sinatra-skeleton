@@ -1,0 +1,54 @@
+header {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background: #000000;
+  }
+
+body {
+ background: #FFE6E6; 
+}
+
+.ellebox { 
+  margin-left: 350px;
+}
+
+.title {
+  font-size: 8.0em;
+  color: gray;
+  margin-left: 300px;
+}
+
+article p {
+  color: gray;
+  font-family: times;
+  font-size: 5.0em;
+  }
+
+.widget {
+  text-align: right;
+}
+
+.blue {
+  color: #48D6E0;
+}
+
+ul.bucketlist li {
+  color: gray;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  height: 200px;
+  width: 200px;
+}
+
+#signup {
+  width: 300px;
+  margin: 0 auto;
+
+
+}
+
